@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Kardem's favorite food:
 
 Kebap
 Lahmacun
 Pizza
+=======
+Kardem's favorite movies
+
+Shrek
+Buz devri
+Köfte yagmuru
+>>>>>>> movies
